@@ -39,7 +39,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: ysCatherine
+# disqus_username: ysCatherine
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
